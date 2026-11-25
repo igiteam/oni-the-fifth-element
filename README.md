@@ -20,6 +20,8 @@ A total conversion project that fuses the cyberpunk close-quarters combat and ma
 
 [![Oni PC redump](https://archive.org/download/oni-ae/Oni.png)](https://archive.org/details/oni-pc-redump)
 
+[![NYR: New York Race PS2](https://img.youtube.com/vi/hODt1ySYyZg/maxresdefault.jpg)](https://ytembed.macosxjs.com/?aE9EdDF5U1l5Wmc)
+
 [https://archive.org/details/psx_5element](https://archive.org/details/psx_5element)
 
 ## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
